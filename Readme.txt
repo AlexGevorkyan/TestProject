@@ -1,1 +1,1 @@
-This is a text sample. Это пример иекста.
+This is a text sample. Это пример текста.
